@@ -1,4 +1,4 @@
 ---
-lucky-word:
+wordConfig:
   preamble: La palabrita mágica es
   luckyWord: Eureka
