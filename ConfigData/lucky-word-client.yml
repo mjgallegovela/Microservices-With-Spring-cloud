@@ -1,7 +1,7 @@
 ---
 wordConfig:
   preamble: Voy a cambiar la palabrita mágica a
-  luckyWord: Libelula
+  luckyWord: Esternocleidomastoideo
   
 spring:
   rabbitmq:
